@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sridevinavin
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Reactjs,bootstrap,css,HTML
+- 🌱 I’m currently learning Frontend developement
 - 💞️ I’m looking to collaborate on projects 
 - 📫 Reach me at sridevihariharan28@gmail.com
 
